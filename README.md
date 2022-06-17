@@ -1,9 +1,6 @@
 #### MOBILE DEV 🤖:
 # ![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-dart-100.png) ![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-flutter-100.png) ![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-kotlin-100.png) ![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-react-native-96.png)
 
-#### BACK END 🚀:
-![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-firebase-100.png) ![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-docker-100.png) ![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-amazon-web-services-100.png)
-
 ### UI DESIGN 🎨 :
 ![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-adobe-xd-100.png) ![YannBemba](https://github.com/YannBemba/YannBemba/blob/main/icons8-figma-100.png)
 
